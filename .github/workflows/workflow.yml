@@ -1,4 +1,4 @@
-name: directory-listing
+name: main
 on: [push]
 
 jobs:
